@@ -1,0 +1,25 @@
+{
+  "name": "milestones",
+  "description": "My life's important milestones",
+  "main": "index.js",
+  "authors": [
+    "Nitin Pasumarthy"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "milestones",
+    "python",
+    "mysql"
+  ],
+  "homepage": "https://github.com/Nithanaroy/milestones#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

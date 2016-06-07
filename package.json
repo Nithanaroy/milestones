@@ -1,0 +1,27 @@
+{
+  "name": "milestones",
+  "version": "1.0.0",
+  "description": "My life's important milestones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nithanaroy/milestones.git"
+  },
+  "keywords": [
+    "milestones",
+    "python",
+    "mysql"
+  ],
+  "author": "Nitin Pasumarthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nithanaroy/milestones/issues"
+  },
+  "homepage": "https://github.com/Nithanaroy/milestones#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
