@@ -8,15 +8,15 @@ class Logger {
     }
 
     info(e) {
-        console.log(e.message, e.data)
+        console.log(e)
     }
 
     warn(e) {
-        console.log(e.message, e.data)
+        console.log(e)
     }
 
     error(e) {
-        console.log(e.message, e.data)
+        console.log(e)
     }
 }
 
